@@ -5,21 +5,7 @@ export default function Dashboard() {
   return (
     <div className="root">
       
-      <div className="topbar">
-        <div className="topbar-left">
-          <div className="brand">
-             <span>ContracthubPK</span>
-          </div>
-          <div className="menu">
-            <span className="active">Dashboard</span>
-            <span>Contracts</span>
-            <span>Activities</span>
-            <span>Counterparties</span>
-            <span>Reports</span>
-          </div>
-        </div>
-        <div className="avatar"></div>
-      </div>
+      
 
      
       <div className="yellow-strip">Dashboard</div>
